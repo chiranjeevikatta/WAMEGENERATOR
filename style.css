@@ -6,7 +6,6 @@
 .main-form{
     width: 500px;
     align-items: center;
-    display: flex;
     justify-content: center;
     margin: auto;
 }
